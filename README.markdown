@@ -25,7 +25,7 @@ This Python script, created out of curiosity, tracks system activity on Windows,
 ## Installation
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/SystemMonitor.git
+   git clone https://github.com/AH-ojaghi/SystemMonitor.git
    ```
 2. Navigate to the project directory:
    ```bash
